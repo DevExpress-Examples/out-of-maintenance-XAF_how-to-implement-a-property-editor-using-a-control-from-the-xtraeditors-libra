@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetMaskForCustomWinPropertyEdtior.Module", "HowToSetMaskForCustomWinPropertyEdtior.Module\HowToSetMaskForCustomWinPropertyEdtior.Module.vbproj", "{F5A81816-0211-4BF3-9EEB-19AEBDA647BA}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetMaskForCustomWinPropertyEdtior.Module.Win", "HowToSetMaskForCustomWinPropertyEdtior.Module.Win\HowToSetMaskForCustomWinPropertyEdtior.Module.Win.vbproj", "{4859B050-8F12-4A45-9F24-3BA74A22A46F}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToSetMaskForCustomWinPropertyEdtior.Win", "HowToSetMaskForCustomWinPropertyEdtior.Win\HowToSetMaskForCustomWinPropertyEdtior.Win.vbproj", "{1EA1D890-E403-4FA6-9321-075433262BED}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A81816-0211-4BF3-9EEB-19AEBDA647BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A81816-0211-4BF3-9EEB-19AEBDA647BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A81816-0211-4BF3-9EEB-19AEBDA647BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A81816-0211-4BF3-9EEB-19AEBDA647BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4859B050-8F12-4A45-9F24-3BA74A22A46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4859B050-8F12-4A45-9F24-3BA74A22A46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4859B050-8F12-4A45-9F24-3BA74A22A46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4859B050-8F12-4A45-9F24-3BA74A22A46F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA1D890-E403-4FA6-9321-075433262BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA1D890-E403-4FA6-9321-075433262BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA1D890-E403-4FA6-9321-075433262BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA1D890-E403-4FA6-9321-075433262BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
