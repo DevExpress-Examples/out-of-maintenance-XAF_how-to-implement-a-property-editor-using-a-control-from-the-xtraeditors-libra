@@ -27,10 +27,9 @@ namespace E232.Module.Win {
         protected override RepositoryItem CreateRepositoryItem() {
             return new RepositoryItemCalcEdit();
         }
-        // Uncomment this code starting with version 13.1.
-        //public override bool CanFormatPropertyValue {
-        //    get { return true; }
-        //}
+        public override bool CanFormatPropertyValue {
+            get { return true; }
+        }
     }
     [NavigationItem("E232")]
     public class TestObject : BaseObject {
