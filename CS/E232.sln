@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E232.Module.Win", "E232.Module.Win\E232.Module.Win.csproj", "{CC9E717B-3759-45AF-B526-F8C816A9D474}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E232.Win", "E232.Win\E232.Win.csproj", "{584105DE-96EF-48A6-B712-BF11AA0E5580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E232.Module.Win", "E232.Module.Win\E232.Module.Win.csproj", "{CC9E717B-3759-45AF-B526-F8C816A9D474}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
