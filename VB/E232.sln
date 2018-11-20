@@ -1,0 +1,25 @@
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E232.Win", "E232.Win\E232.Win.vbproj", "{584105DE-96EF-48A6-B712-BF11AA0E5580}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "E232.Module.Win", "E232.Module.Win\E232.Module.Win.vbproj", "{CC9E717B-3759-45AF-B526-F8C816A9D474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9E717B-3759-45AF-B526-F8C816A9D474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9E717B-3759-45AF-B526-F8C816A9D474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9E717B-3759-45AF-B526-F8C816A9D474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9E717B-3759-45AF-B526-F8C816A9D474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{584105DE-96EF-48A6-B712-BF11AA0E5580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584105DE-96EF-48A6-B712-BF11AA0E5580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584105DE-96EF-48A6-B712-BF11AA0E5580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584105DE-96EF-48A6-B712-BF11AA0E5580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
